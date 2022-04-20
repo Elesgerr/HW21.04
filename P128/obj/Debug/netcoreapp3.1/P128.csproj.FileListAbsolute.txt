@@ -1,0 +1,13 @@
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.AssemblyInfo.cs
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.exe
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.deps.json
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.runtimeconfig.json
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.dll
+C:\Users\Eli\source\repos\P128\P128\bin\Debug\netcoreapp3.1\P128.pdb
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.dll
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.pdb
+C:\Users\Eli\source\repos\P128\P128\obj\Debug\netcoreapp3.1\P128.genruntimeconfig.cache
